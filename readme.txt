@@ -1,4 +1,9 @@
 
+INoriDrone - interface containing methods to be implemented (i.e.move_[forward, left, right, back, up, down])
+NoriDrone - implementing class
+ChartFlight has main and calls flight commands
+
+
 Sample ChartFlight output:
 
 Starting Engine
